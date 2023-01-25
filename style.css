@@ -97,5 +97,52 @@
     justify-content: center;
     align-items: center;
     max-width: 200px;
-    
+    font-size: 18px;   
+}
+
+.quote-section {
+
+    background-color: #e5e7eb;
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#quote {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.third-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-section {
+    background-color: #3882f6;
+
+    margin: 50px;
+    padding: 48px;
+    border-radius: 12.5px;
+    width: fit-content;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    background-image: url(images/breakingbad.gif);
+}
+
+.left-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fourth-section {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
