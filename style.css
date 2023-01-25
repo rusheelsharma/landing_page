@@ -1,0 +1,101 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    max-height: 100vh;
+}
+
+.logo {
+    border-radius: 50%;
+    height: 75px;
+    width: 75px; 
+    padding: 16px;
+    margin-left: 52px;
+
+}
+
+.link-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 36px;
+}
+
+.top-section {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    text-decoration: none;
+    list-style-type: none;
+    color: #f9faf8;
+    display: flex;
+    gap: 24px;
+}
+
+.title {
+    color: #f9faf8;
+    
+}
+
+.second-section{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.placeholder {
+    width: 600px;
+    height: 300px;
+    display: flex;
+    margin: 32px
+}
+
+.sign-up {
+    border-radius: 12px;
+    padding: 12px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-color: #f9faf8;
+    border-style: solid;
+    width: 100px;
+    height: 50px;
+}
+
+.left-sec {
+    display: flex;
+    flex-direction: column;
+    margin-top: 12px;
+}
+
+.information {
+    background-color: white;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+
+.breakingBadPics {
+    width: 200px;
+    height: 200px;
+    border-radius: 12.5px;
+}
+
+.image-information {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    
+}
